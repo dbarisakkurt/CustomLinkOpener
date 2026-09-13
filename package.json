@@ -3,6 +3,14 @@
   "displayName": "Custom Link Opener",
   "description": "Open selected text in a configurable URL from the editor context menu.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbarisakkurt/CustomLinkOpener.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dbarisakkurt/CustomLinkOpener/issues"
+  },
+  "homepage": "https://github.com/dbarisakkurt/CustomLinkOpener#readme",
   "engines": {
     "vscode": "^1.137.0"
   },

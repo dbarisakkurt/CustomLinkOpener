@@ -2,6 +2,7 @@
   "name": "customlinkopener",
   "displayName": "Custom Link Opener",
   "description": "Open selected text in a configurable URL from the editor context menu.",
+  "icon": "icon.png",
   "version": "0.0.1",
   "repository": {
     "type": "git",
